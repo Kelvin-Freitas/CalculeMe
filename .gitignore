@@ -30,7 +30,10 @@ yarn-error.log*
 
 # vercel
 .vercel
+<<<<<<< HEAD
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+=======
+>>>>>>> aba1c8efd9355b63e4777c4f4e094de8cf4a6009
