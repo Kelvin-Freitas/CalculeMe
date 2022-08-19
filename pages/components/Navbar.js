@@ -13,9 +13,10 @@ export default function Navbar() {
                 <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div className="navbar-nav">
                         <Link href="/"><a className="nav-link active" aria-current="page" href="#">Todas</a></Link>
-                        <Link href="/"><a className="nav-link" href="#">Matemáticas</a></Link>
-                        <Link href="/"><a className="nav-link" href="#">Financeiro</a></Link>
-                        <Link href="/"><a className="nav-link" href="#">Fiscais</a></Link>
+                        <Link href="/matematicas"><a className="nav-link" href="#">Matemáticas</a></Link>
+                        <Link href="/financeiro"><a className="nav-link" href="#">Financeiro</a></Link>
+                        <Link href="/fiscais"><a className="nav-link" href="#">Fiscais</a></Link>
+                        <Link href="/conversores"><a className="nav-link" href="#">Conversores</a></Link>
                     </div>
                 </div>
             </div>
