@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-page-custom-font */
 import 'bootstrap/dist/css/bootstrap.css'
 import '../styles/globals.css'
 

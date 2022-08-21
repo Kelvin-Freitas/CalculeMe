@@ -41,7 +41,9 @@ export default function Home() {
                 <FontAwesomeIcon icon={faSackDollar} className="fa-3x mt-2" />
                 <div className="card-body">
                   <h5 className="card-title text-center">Cálculos Financeiros</h5>
-                  <p className="card-text text-center justify-content-center">This card has supporting text below as a natural lead-in to additional content.</p>
+                  <p className="card-text text-center justify-content-center">
+                    Problemas nos cálculos financeiros ? Acesse aqui que te ajudo.
+                  </p>
                 </div>
                 <div className="d-flex justify-content-center mb-1">
                   <a href="#" className="btn btn-primary">Clique aqui</a>
@@ -56,7 +58,9 @@ export default function Home() {
                 <FontAwesomeIcon icon={faBalanceScaleRight} className="fa-3x mt-2"/>
                 <div className="card-body">
                   <h5 className="card-title text-center">Cálculos Ficais</h5>
-                  <p className="card-text text-center justify-content-center">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                  <p className="card-text text-center justify-content-center">
+                    Complicado ne 😅 ? Relaxa, vamos nessa juntos.
+                  </p>
                 </div>
                 <div className="d-flex justify-content-center mb-1">
                   <a href="#" className="btn btn-primary">Clique aqui</a>
