@@ -1,0 +1,8 @@
+.optionCard{
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 300px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
